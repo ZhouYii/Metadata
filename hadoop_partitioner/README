@@ -1,0 +1,1 @@
+Usage : Compile to jar, `hadoop jar <jar path>.jar WordCount <input dir> <output dir>`
