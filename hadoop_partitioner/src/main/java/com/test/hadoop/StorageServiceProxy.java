@@ -1,4 +1,4 @@
-
+package com.test.hadoop;
 
 import java.io.IOException;
 
@@ -6,6 +6,8 @@ import javax.management.JMX;
 import javax.management.MBeanServerConnection;
 import javax.management.MalformedObjectNameException;
 import javax.management.ObjectName;
+
+import com.test.hadoop.AbstractJmxClient;
 
 public class StorageServiceProxy extends AbstractJmxClient 
 {

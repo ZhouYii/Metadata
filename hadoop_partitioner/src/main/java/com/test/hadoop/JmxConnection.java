@@ -1,4 +1,4 @@
-
+package com.test.hadoop;
 
 import java.io.IOException;
 import java.util.HashMap;
