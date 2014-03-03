@@ -1,1 +1,0 @@
-hadoop jar hd.jar com.test.hadoop.WordCount /user/hduser/input /user/hduser/output/moby16
